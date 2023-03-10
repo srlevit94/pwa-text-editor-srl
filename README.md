@@ -21,3 +21,5 @@ https://jate-pwa-srl.herokuapp.com/
 
 ## Link to GitHub Repository:
 https://github.com/srlevit94/pwa-text-editor-srl
+
+## License: MIT License
